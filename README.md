@@ -252,3 +252,5 @@ A curated list of 200 genuinely useful free tools, organized by category. Every 
 - **⚠️ Legally grey** sites (pdfdrive, libgen, annas-archive, sci-hub) provide copyrighted material without permission. Included for completeness; using them may be illegal where you live.
 - **Link corrections from earlier drafts:** `ray.so` → `www.ray.so` (bare domain doesn't load); `annas-archive.org` → `annas-archive.gs` (old domain dead); Fakespot replaced with TheReviewIndex (Mozilla discontinued Fakespot in 2025). Full verification details in [audit.md](audit.md).
 - **v2 (2026-07):** grew the list from 100 → 200 and added a new "Fonts, Icons & Illustrations" section. The original 100 were verified 2026-05-29; the 100 additions were verified 2026-07-04.
+
+Install and download it
