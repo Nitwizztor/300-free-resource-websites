@@ -26,7 +26,7 @@ A curated list of 200 genuinely useful free tools, organized by category. Every 
 16. **[freesound.org](https://freesound.org/)** — Huge searchable library of Creative Commons sound effects and samples. Free.
 17. **[musopen.org](https://musopen.org/)** — Free public-domain classical recordings and sheet music.
 18. **[freemusicarchive.org](https://freemusicarchive.org/)** — Curated library of CC-licensed music. Free for many uses (check per-track license).
-19. **[incompetech.com](https://incompetech.com/)** — Kevin MacLeod's royalty-free music library. Free with attribution.
+19. **[incompetech.com](https://incompetech.com/)** — Kevin MacLeod's royalty-free music library. Free with attribution
 20. **[ezgif.com](https://ezgif.com/)** — Free browser GIF maker plus video/image conversion tools.
 21. **[loom.com](https://www.loom.com/)** — Fast screen + webcam recording with an instant share link. Free tier (video length capped).
 22. **[otter.ai](https://otter.ai/)** — Auto-transcribes meetings and audio. Freemium — free plan caps monthly minutes.
@@ -253,4 +253,4 @@ A curated list of 200 genuinely useful free tools, organized by category. Every 
 - **Link corrections from earlier drafts:** `ray.so` → `www.ray.so` (bare domain doesn't load); `annas-archive.org` → `annas-archive.gs` (old domain dead); Fakespot replaced with TheReviewIndex (Mozilla discontinued Fakespot in 2025). Full verification details in [audit.md](audit.md).
 - **v2 (2026-07):** grew the list from 100 → 200 and added a new "Fonts, Icons & Illustrations" section. The original 100 were verified 2026-05-29; the 100 additions were verified 2026-07-04.
 
-#
+#install
