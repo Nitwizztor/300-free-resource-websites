@@ -370,7 +370,7 @@ Prefer GitHub? Jump to a category, or press <kbd>Ctrl/⌘</kbd>+<kbd>F</kbd> to 
 287. **[rhymezone.com](https://www.rhymezone.com/)** — Rhymes, near-rhymes, synonyms and meter. Free, essential for lyricists and poets.
 288. **[ttsmaker.com](https://ttsmaker.com/)** — Free text-to-speech in 100+ languages, with commercial use allowed. Free.
 289. **[otter.ai](https://otter.ai/)** — AI meeting transcription that actually works. Free tier gives ~300 minutes a month.
-290. **[forvo.com](https://forvo.com/)** — Hear how any word is pronounced by native speakers. Free.
+290. **[forvo.com](htttps://forvo.com/)** — Hear how any word is pronounced by native speakers. Free.
 
 ## Career & Job Hunting
 
